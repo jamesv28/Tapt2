@@ -1,0 +1,36 @@
+/********* Google Fonts ************/
+/** Serif:Quattrocentro **/
+@import url(https://fonts.googleapis.com/css?family=Quattrocento:400,700);
+
+/** Sans-Serif: Montserrat **/
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+/****** Variables for Color Schema *********/
+$red: #FF0000;
+$blue: #00BFFF;
+$green: #00C957;
+$ivory: #FFFFF0;
+$purple: #B452CD;
+
+/************ Beer Colors ************/
+$lighterThanLight: #A84800;
+$lemoncholy: #A84800;
+$newYellow: #F0C000;
+$slatChocolate: #A84800;
+$meatball: #904830;
+$puttingDownBoots: #783030;
+$black: #000000;
+
+/******* Basic Fonts ***********/
+html,body {
+  font-family: 'Quattrocento', serif;
+}
+
+h1,h2,h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+strong {
+  font-weight: 700;
+}
+

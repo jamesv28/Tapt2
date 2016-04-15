@@ -1,0 +1,18 @@
+/********* Google Fonts ************/
+/** Serif:Quattrocentro **/
+@import url(https://fonts.googleapis.com/css?family=Quattrocento:400,700);
+/** Sans-Serif: Montserrat **/
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+/****** Variables for Color Schema *********/
+/************ Beer Colors ************/
+/******* Basic Fonts ***********/
+html, body {
+  font-family: 'Quattrocento', serif; }
+
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif; }
+
+strong {
+  font-weight: 700; }
+
+/*# sourceMappingURL=style.css.map */
